@@ -1,1 +1,1 @@
-# test_gcc
+# test_java
